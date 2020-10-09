@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "devDependencies": {
+    "axios": "^0.20.0",
+    "vue": "^2.6.12"
+  },
+  "dependencies": {
+    "webpack": "^5.0.0-rc.4",
+    "webpack-cli": "^4.0.0-rc.1"
+  }
+}
